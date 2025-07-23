@@ -28,5 +28,5 @@ Nova is an intelligent voice assistant built in Python. It recognizes voice comm
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/nova-voice-assistant.git
+   git clone https://github.com/Uday10102006/Nova_Assistant
    cd nova-voice-assistant
